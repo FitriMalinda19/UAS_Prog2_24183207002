@@ -1,4 +1,7 @@
 # UAS_Prog2_24183207002
+Nama: Fitri Malinda
+NIM: 24183207002
+Kelas: PTI 3A
 -User
 Abstract class sebagai induk untuk Mahasiswa dan Dosen.
 Menyimpan id dan nama (protected) serta memiliki method abstract tampilInfo().
